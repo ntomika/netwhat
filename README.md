@@ -38,7 +38,6 @@ Internet Protocol Address («адрес Интернет-протокола») �
 192.168.11.10 /21
 
 IP-address: 11000000.10101000.00001011.00001010
-
 Netmask: 11111111.11111111.11111000.00000000
 
-![](https://github.com/ntomika/netwhat/main/img/subnetIP.png) 
+![](https://github.com/ntomika/netwhat/raw/main/img/subnetIP.png) 
